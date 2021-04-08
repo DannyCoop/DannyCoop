@@ -3,8 +3,8 @@
 Sorry for the lack of green squares I was working in a private repository.
 
 - 🔭 I’m currently working on my first Next.js app.
-- - 🌱 I’m currently learning Next.js.
-- - 👯 I’m looking to collaborate on any cool ideas.
+- 🌱 I’m currently learning Next.js.
+- 👯 I’m looking to collaborate on any cool ideas.
 - 🤔 I’m looking for help with project ideas.
 - 💬 Ask me about anything or game design.
 - 📫 How to reach me: Cooperdaniel5141@gmail.com
