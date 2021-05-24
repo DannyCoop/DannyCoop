@@ -1,4 +1,4 @@
-### Hi there my name is Daniel Cooper welcom to my git hub!
+### Hi there my name is Daniel Cooper welcome to my git hub!
 
 Sorry for the lack of green squares I was working in a private repository.
 
