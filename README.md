@@ -1,8 +1,6 @@
 ### Hi there my name is Daniel Cooper welcome to my git hub!
 
-Sorry for the lack of green squares I was working in a private repository.
-
-- 🔭 I’m currently working on my first Next.js app.
+- 🔭 I’m currently working on a discord bot called Vallith.
 - 🌱 I’m currently learning Next.js.
 - 👯 I’m looking to collaborate on any cool ideas.
 - 🤔 I’m looking for help with project ideas.
